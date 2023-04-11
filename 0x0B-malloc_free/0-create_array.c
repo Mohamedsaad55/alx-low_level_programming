@@ -1,5 +1,5 @@
 #include "main.h"
-#define NULL ((void *)0)
+
 #include <stdlib.h>
 
 /**
